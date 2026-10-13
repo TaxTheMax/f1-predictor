@@ -1,0 +1,21 @@
+{
+  "files.exclude": {
+    "**/__pycache__": true,
+    "**/*.egg-info": true,
+    "**/.pytest_cache": true,
+    "**/.ipynb_checkpoints": true,
+    "**/node_modules": true,
+    "**/.angular": true,
+    "**/dist": true,
+    ".venv": true,
+    "cache": true
+  },
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/.angular": true,
+    "**/dist": true,
+    ".venv": true,
+    "cache": true,
+    "data": true
+  }
+}
